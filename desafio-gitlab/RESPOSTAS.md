@@ -7,8 +7,8 @@
 #### 2a. Crie um repositório público chamado "desafio-gitlab"
 
 **Resposta**
-
-[![Link Repositorio](prints/01.png)](https://github.com/c-goncalves/desafio-gitlab)
+Link:
+[![Link Repositorio](prints/01.png)](https://gitlab.com/c-goncalves/desafio-gitlab)
 
 #### b. Clone-o em seu computador.
 
